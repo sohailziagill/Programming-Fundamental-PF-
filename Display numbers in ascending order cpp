@@ -2,6 +2,14 @@
 using namespace std;
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Display the entered numbers in Ascending order .";
+cout<<"\nCompiler : Visual Studio 18";
+cout<<"\nDated : 12/Jul/18";
+cout<<"\nCompiling date : 12/Jul/18";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 	int a,b,c;
 	cout<<"Plz enter three numbers\n";
 	cin>>a>>b>>c;
