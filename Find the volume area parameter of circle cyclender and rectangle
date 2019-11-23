@@ -7,6 +7,14 @@ const double PI = 3.1416;
 using namespace std;
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: It will take the shape of rectangle or circle or cyclender and it will find the area, parameter,and volume .";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Sep/19";
+cout<<"\nCompiling date : 27/Sep/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 string shape;
 double height;
 double radius;
