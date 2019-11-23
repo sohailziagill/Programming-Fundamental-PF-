@@ -2,6 +2,14 @@
 using namespace std;
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nEnter the number of cookis and number of cookies in one container ,it will find the number of boxes for the cookies.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 	int f,g,i,n,m,k,l;
 	cout<<"Enter the total number of cookies\n";
 	cin>>f;
