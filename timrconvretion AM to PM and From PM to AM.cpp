@@ -50,6 +50,14 @@ int time24t12(int &hours,int min)
 
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: It will convert time from A.M To P.M and vice versa.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Sep/19";
+cout<<"\nCompiling date : 27/Sep/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     int x=0;
     f();
     cin>>x;
