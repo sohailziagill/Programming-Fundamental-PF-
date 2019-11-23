@@ -2,6 +2,14 @@
 using namespace std;
 int main()
 {
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Program to convert uppercase letters into digis.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 char letter; 
 cout << "Program to convert uppercase letters into digis "<< endl; 
 cout << "To stop the program enter #."<< endl; 
