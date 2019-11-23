@@ -1,7 +1,15 @@
 #include<iostream>
 using namespace std;
 int main()
-{int row,largest ;
+{
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Maximum number in row to 1d array database.";
+cout<<"\nCompiler : Visual Studio 17";
+cout<<"\nDated : 12/Oct/18";
+cout<<"\nCompiling date : 12/Oct/18";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";int row,largest ;
 	int array[4][3];
 	for(int i=0;i<4;i++)
 	for(int j=0;j<3;j++)
