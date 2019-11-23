@@ -3,6 +3,14 @@
 using namespace std;
 int main()
 {
+   cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Sum of two numbers with while loop.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 2/Dec/19";
+cout<<"\nCompiling date : 3/Dec/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 char response;
 double num1;
 double num2;
