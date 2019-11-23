@@ -2,6 +2,14 @@
 using namespace std;
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Electric Bill Calculation according to diffrent unit prices.";
+cout<<"\nCompiler : Visual Studio 17";
+cout<<"\nDated : 27/Oct/17";
+cout<<"\nCompiling date : 27/Oct/17";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 	char type;
 	int minuts,time;
 double bill;
