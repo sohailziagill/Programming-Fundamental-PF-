@@ -1,7 +1,16 @@
 #include<iostream>
 using namespace std;
 int numpelidron(int num)
-{ int n=num;
+{ 
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Pelidron number.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 4/Mar/19";
+cout<<"\nCompiling date : 9/Mar/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
+	int n=num;
 	int dig,comp=0;
 	while(num!=0)
 	{
