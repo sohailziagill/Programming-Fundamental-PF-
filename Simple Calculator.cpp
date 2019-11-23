@@ -2,6 +2,14 @@
 using namespace std;
 int  main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: A simple Calculator.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/18";
+cout<<"\nCompiling date : 27/Oct/18";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 	int num1,num2;
 	char num;
 
