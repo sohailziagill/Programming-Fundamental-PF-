@@ -1,0 +1,24 @@
+#include<iostream>
+#include<cstdlib>
+#include<ctime>
+using namespace std;
+int main()
+{
+    int num,guess;
+    bool guessed=true;
+    srand(time(0));
+    num=rand()%100;
+    while(guessed)
+    {
+        cout<<"\nEnter the number for game ";
+        cin>>guess;
+     if(guess==num)
+     {
+         cout<<"\nYou won the game ";
+         guessed=false;
+     }
+     else 
+     cout<<"\n You lose and try again ";
+    }
+    return 0;
+}
