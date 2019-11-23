@@ -1,0 +1,35 @@
+#include<iostream>
+#include<iomanip>
+
+using namespace std;
+int main()
+{
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Convert the digit that is >9and <35 into uppercase aplhabet.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 3/Oct/19";
+cout<<"\nCompiling date : 4/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
+	int num;
+	char a;
+	cout<<"Enter the number  ";
+	cin>>num;
+	if(num<=35)
+	{
+
+		if(num<=9)
+			cout<<"\n"<<num;
+		else
+		{
+			a= static_cast<char>(num+55);
+		cout<<a;
+	}
+	}
+	else
+		cout<<"You are entered an invalid number  ";
+		cout<<endl;
+	system("pause");
+	return 0;
+}
