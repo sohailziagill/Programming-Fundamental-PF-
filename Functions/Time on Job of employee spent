@@ -8,6 +8,15 @@ void timeOnJob(int arvHr, int arvMin, bool arvIsAM, int depHr, int depMin, bool 
 
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout << "This program calculates the total time spent by an "
+<< "employee on the job." <<endl;
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 string employeeName;
 int arrivalHr;
 int arrivalMin;
