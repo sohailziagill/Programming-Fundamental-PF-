@@ -27,7 +27,16 @@ cin>>num1;
 }
 
 int main()
-{ char num;
+{
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Check vowel alphabet by using while loop in functions.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
+    char num;
 cout<<"Enter the character  ";
 cin>>num;
 vowel(num);
