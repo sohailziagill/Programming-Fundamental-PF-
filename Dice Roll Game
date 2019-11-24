@@ -5,6 +5,14 @@ using namespace std;
 int rollDice(int num);
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Dice Roll Game.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 13/Apr/19";
+cout<<"\nCompiling date : 13/Apr/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     int num;
     cout<<"Enter the number ";
     cin>>num;
