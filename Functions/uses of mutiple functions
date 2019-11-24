@@ -46,6 +46,15 @@ void hoursrate(double& hour,double& rate)
  }
  int main()
  {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Uses of multiple functions to calculate the empolyee salary.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 8/Aug/19";
+cout<<"\nCompiling date : 8/Aug/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
+  
   int x, y;
 char z;
 double rate, hour;
