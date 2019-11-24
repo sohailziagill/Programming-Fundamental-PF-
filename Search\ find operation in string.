@@ -2,6 +2,14 @@
 using namespace std;
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Search operation in string.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 4/Jan/19";
+cout<<"\nCompiling date : 6/Jan/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     char str[150]="My name is Ali. I am 20 years old. I live in Islamabad.";
     char ts[5]="live";
     int i=0,x=0;
