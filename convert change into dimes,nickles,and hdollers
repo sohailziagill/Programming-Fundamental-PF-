@@ -2,6 +2,14 @@
 using namespace std;
 int main()
 {
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Convert change into dimes nickles and half dollers .";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     
     int chang,hdoller,quater,dimes,pinies,nickels;
     cout<<"Enter the change  ";
