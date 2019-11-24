@@ -8,7 +8,15 @@ double cylinder(double Br, double h);
 double circle(double r); 
 
 int main() 
-{ 
+{
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: CAlculate Area of circle and rectangle And volume of cyclender.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 double radius; 
 double height; 
 int choice = 0; 
