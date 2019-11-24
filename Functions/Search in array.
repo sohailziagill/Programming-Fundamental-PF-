@@ -29,6 +29,14 @@ if(array[i]==num)
 }
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Searching in array.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 6/Feb/19";
+cout<<"\nCompiling date : 8/Feb/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     const int size=10;
     int array[size],pos=0;
     fill(array,size);
