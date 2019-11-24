@@ -1,0 +1,19 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main ()
+{
+    int pages;
+    float cost;
+    cout<<"Enter the number of pages ";
+    cin>>pages;
+    if(pages<=10)
+    cost=3+0.2*pages;
+    else
+    cost=3+10*0.2+(pages-10)*0.1;
+    cout<<"\n The cost is  "<<cost;
+  
+    
+    cout<<endl;
+    return 0;
+}
