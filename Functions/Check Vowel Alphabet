@@ -26,6 +26,14 @@ char  vowel (char num1)
 
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Check Vowel Alphabet by using functions.";
+cout<<"\nCompiler : Visual Studio 18";
+cout<<"\nDated : 17/Sep/18";
+cout<<"\nCompiling date : 17/Sep/18";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     char num;
     cout<<"Enter the number  ";
     cin>>num;
