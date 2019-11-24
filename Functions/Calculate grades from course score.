@@ -5,6 +5,14 @@ void getScore(int& score);
 char calculateGrade(int score);
 int main()
 {
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle:Calculate the grade.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
 int courseScore;
 cout << "Line 1: Based on the course score, \n"
 << " this program computes the "
