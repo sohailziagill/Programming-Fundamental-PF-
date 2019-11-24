@@ -27,6 +27,14 @@ void largest(int list[],int size,int& max,int& pos,int& sum)
 
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Largest number in array and sum and average.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     const int size=10;
     int list[size],max=0,pos,sum=0;
     double avg=0;
