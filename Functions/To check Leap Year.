@@ -5,6 +5,14 @@ int print_month(int pmonth,int p_days);
 
 int main()
 {
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Leap year by functions.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     int month,days,year;
   
     cout << "Enter a date in the form of month-day-year: ";
