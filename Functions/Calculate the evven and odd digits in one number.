@@ -5,6 +5,14 @@ void digitCount(long num);
 
 int main ()
 {
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Calculate the evven and odd digits in one number.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     long num;
     
     cout <<"Enter a long number of 5 digits. " <<endl;
