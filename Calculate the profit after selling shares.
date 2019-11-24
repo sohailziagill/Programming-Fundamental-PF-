@@ -7,6 +7,14 @@
 using namespace std;
 
 int main(){
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Calculate profit after selling shares.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     const double BROKERAGE_FEE = 0.015;
     double purchasePrice, salePrice, netAmount, originalInvestment, totalFees;
     int sharesSold;
