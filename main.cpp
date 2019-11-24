@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int amount,money,service=0,nmoney;
+    cout<<"Enter the initial amout in account ";
+    cin>>amount;
+    cout<<"\n Enter the withdrawal money ";
+    cin>>money;
+    if(money<=amount)
+     {
+         if(money>500)
+    cout<<"\n You cannot withdraw more than 500 \n";
+    else if(money>300)
+    {
+        service=(money-300)*0.04;
+        
+    
+    
+   nmoney= money-service;
+   cout<<"\n Your net with drawal amount is "<<money;
+     }
+     }
+    else
+    cout<<"\n You havenot enough money ";
+    cout<<endl;
+    return 0;
+}
