@@ -29,6 +29,14 @@ a[i]=a[i+1];
 }
 int main()
 {
+ cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Deletion in array.";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 27/Oct/19";
+cout<<"\nCompiling date : 27/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
     const int n=10;
     int pos;
     int a[n];
