@@ -9,6 +9,15 @@ void func2(int& a, int&  b, double& c);
 
 int main()
 {
+cout<<"\n**************************************************************************";
+cout<<"\nProgrammer :  Sohail Zia Gill.";
+cout<<"\nTitle: Uses of predefined pow( , )and sqrt( , ).";
+cout<<"\nCompiler : Visual Studio 19";
+cout<<"\nDated : 10/Oct/19";
+cout<<"\nCompiling date : 10/Oct/19";
+cout<<"\nIslamic International University Islamabad.";
+cout<<"\n***************************************************************************";
+	
 	int num1, num2;
 	double num3;
 
