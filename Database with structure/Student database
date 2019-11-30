@@ -341,6 +341,14 @@ for(int i=0;i<nn;i++)
 	
 int main()
 {
+cout<<"\n**************************************************************************:";
+cout<<"\nProgrammer :  Sohail Zia Gill:";
+cout<<"\nTitle: Student Result Database using Structure programming :";
+cout<<"\nCompiler : Visual Studio 2012:";
+cout<<"\nDated : 30/sep/2019:";
+cout<<"\nCompiling date : 30/sep/2019:";
+cout<<" \nInternational Islamic University Islamabad:";
+cout<<"\n***************************************************************************:\n\n\n";
 student data[size];
 int n,x,loop = 1,newstunumber;
 
